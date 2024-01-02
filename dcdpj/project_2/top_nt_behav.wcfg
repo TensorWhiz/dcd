@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="top_nt_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="top_nt" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="840.501 ns"></ZoomEndTime>
+      <Cursor1Time time="235.500 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="225"></NameColumnWidth>
+      <ValueColumnWidth column_width="190"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="13" />
+   <wvobject fp_name="/top_nt/clk_in" type="logic">
+      <obj_property name="ElementShortName">clk_in</obj_property>
+      <obj_property name="ObjectShortName">clk_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_nt/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_nt/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_nt/pc" type="array">
+      <obj_property name="ElementShortName">pc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pc[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_nt/order" type="array">
+      <obj_property name="ElementShortName">order[31:0]</obj_property>
+      <obj_property name="ObjectShortName">order[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_nt/addr" type="array">
+      <obj_property name="ElementShortName">addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">addr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_nt/rdata" type="array">
+      <obj_property name="ElementShortName">rdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_nt/wdata" type="array">
+      <obj_property name="ElementShortName">wdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">wdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_nt/IM_R" type="logic">
+      <obj_property name="ElementShortName">IM_R</obj_property>
+      <obj_property name="ObjectShortName">IM_R</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_nt/CS" type="logic">
+      <obj_property name="ElementShortName">CS</obj_property>
+      <obj_property name="ObjectShortName">CS</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_nt/DM_R" type="logic">
+      <obj_property name="ElementShortName">DM_R</obj_property>
+      <obj_property name="ObjectShortName">DM_R</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_nt/DM_W" type="logic">
+      <obj_property name="ElementShortName">DM_W</obj_property>
+      <obj_property name="ObjectShortName">DM_W</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_nt/alu_r" type="array">
+      <obj_property name="ElementShortName">alu_r[31:0]</obj_property>
+      <obj_property name="ObjectShortName">alu_r[31:0]</obj_property>
+   </wvobject>
+</wave_config>

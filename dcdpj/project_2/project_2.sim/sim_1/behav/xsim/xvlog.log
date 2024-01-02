@@ -1,0 +1,14 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/DCDlab/wy_lab/project_2/project_2.srcs/sources_1/new/lab.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module NPC
+INFO: [VRFC 10-311] analyzing module MUX2x32
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-311] analyzing module IMEM
+INFO: [VRFC 10-311] analyzing module RegFile
+INFO: [VRFC 10-311] analyzing module EXT16
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-311] analyzing module DMEM
+INFO: [VRFC 10-311] analyzing module JOINT
+INFO: [VRFC 10-311] analyzing module Decoder
+INFO: [VRFC 10-311] analyzing module CPU
+INFO: [VRFC 10-311] analyzing module TOP
+INFO: [VRFC 10-311] analyzing module top_nt
